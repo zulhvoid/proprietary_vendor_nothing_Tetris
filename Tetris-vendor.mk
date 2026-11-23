@@ -345,7 +345,7 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     APUWareApusysAidlServer \
-    android.frameworks.displayservice@1.0 \
+    android.frameworks.displayservice@1.0.vendor \
     android.hardware.audio@7.1-util-v34 \
     libGLES_meow \
     libMEOW_data \
